@@ -5,3 +5,5 @@ As as result, I tried googling for an unseen solution. Once it seemed that there
 
 Checkout the Article on www.mrShishir.ME/style-and-customize-file-input-tag-in-your-own-way-with-example
 
+MushfiQ Shishir
++8801711340020 | hello@mrshishir.me | http://mrshishir.me
