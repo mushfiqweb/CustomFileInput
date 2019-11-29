@@ -1,6 +1,5 @@
 /*
-	By Osvaldas Valutis, www.osvaldas.info
-	Available for use under the MIT License
+	hello@mushfiqweb.com, https://mushfiqweb.com
 */
 
 'use strict';
