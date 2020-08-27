@@ -1,6 +1,6 @@
-# CustomFileInput
-There are quite a few techniques for “customizing” the <input type=”file” /> element. I tried most of them, but none was good enough.
+# Customize File Input Element Using JavaScript & CSS
 
-As as result, I tried googling for an unseen solution. Once it seemed that there was nothing new, my eyes were caught by a comment on StackOverflow. It had just a few upvotes and was lost somewhere in the middle of the page, but most importantly it contained a magic word – <label>! As you may know, pressing a label basically triggers the focus event for the bound input. Interesting thing is that, if it is a file input, it works out as a click event, resulting in opening a file browser. This is great for crafting a semantic solution.
+### There are numerous ways to customize the file input element in HTML. In this post, we are going to make the file input element more attractive using JavaScript and CSS.
 
-Checkout the Article on www.mrShishir.ME/style-and-customize-file-input-tag-in-your-own-way-with-example
+
+Read detailed article on [my blog](https://mushfiqweb.com/customize-file-input-element-in-your-own-way/).
