@@ -91,16 +91,14 @@ h1{
 
 .inputfile + label {
     max-width: 80%;
-    font-size: 1.25rem;
-    /* 20px */
+    font-size: 1.25rem;    
     font-weight: 700;
     text-overflow: ellipsis;
     white-space: nowrap;
     cursor: pointer;
     display: inline-block;
     overflow: hidden;
-    padding: 0.625rem 1.25rem;
-    /* 10px 20px */
+    padding: 0.625rem 1.25rem;    
 }
 
 .no-js .inputfile + label {
@@ -123,10 +121,8 @@ h1{
     height: 1em;
     vertical-align: middle;
     fill: currentColor;
-    margin-top: -0.25em;
-    /* 4px */
-    margin-right: 0.25em;
-    /* 4px */
+    margin-top: -0.25em;    
+    margin-right: 0.25em;    
 }
 
 
